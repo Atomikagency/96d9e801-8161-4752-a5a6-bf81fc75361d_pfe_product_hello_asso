@@ -16,3 +16,4 @@ if (!defined('ABSPATH')) {
 }
 
 require_once PFE_PRODUCT_HELLO_ASSO_PLUGIN_DIR . 'update-checker.php';
+require_once PFE_PRODUCT_HELLO_ASSO_PLUGIN_DIR . 'includes/product.cpt.php';
